@@ -1,0 +1,44 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "c420eeddec6bef9ec0a3987613dccd0e",
+    "packages": [
+        {
+            "name": "relaypay-public/merchant-api-spec",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/relaypay-public/merchant-api-spec.git",
+                "reference": "391c64ad8a8854f804b86876c1a6abe92af2224c"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/relaypay-public/merchant-api-spec/zipball/391c64ad8a8854f804b86876c1a6abe92af2224c",
+                "reference": "391c64ad8a8854f804b86876c1a6abe92af2224c",
+                "shasum": ""
+            },
+            "default-branch": true,
+            "type": "library",
+            "description": "RelayPay Merchant API OpenAPI specification",
+            "support": {
+                "source": "https://github.com/relaypay-public/merchant-api-spec/tree/master",
+                "issues": "https://github.com/relaypay-public/merchant-api-spec/issues"
+            },
+            "time": "2021-07-05T10:07:50+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "relaypay-public/merchant-api-spec": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.0.0"
+}

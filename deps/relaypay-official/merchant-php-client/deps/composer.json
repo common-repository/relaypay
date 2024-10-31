@@ -1,0 +1,5 @@
+{
+    "require": {
+        "relaypay-public\/merchant-api-spec": "^1.0"
+    }
+}
